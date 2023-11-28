@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+    background-color:wheat;
+    margin:20px
+}
+
+#profile-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.special-font{
+    font-family:"Roboto", sans-seif;
+}
+
+.ts{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
