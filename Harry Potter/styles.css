@@ -1,0 +1,66 @@
+ body{
+    background-color: black;
+    width:1140px;
+ }
+
+ #banner {
+    background-image: url(https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/Hogwarts-Castle.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5);
+    background-repeat: no-repeat;
+    height:52vh;
+    width:100% ; /* This needs to be 100% */
+
+    
+} 
+
+#bannertext {
+    font-size: 50px;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 250px;
+}
+
+.buttons {
+    display:flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    background-color: black;
+    color:white;
+    padding-top: 15px;
+
+}
+
+#title {
+    background-color: black;
+    color:white;
+    padding-left: 500px;
+}
+
+.text{
+    color:white;
+    font-size: 12px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.content{
+    display:flex;
+    justify-content:space-evenly;
+    justify-items:flex-start;
+}
+
+.image{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right:50px;
+    
+}
+
+.testimonials{
+    color:white;
+    font-size: 16px;
+    text-align: center;
+}
+    
